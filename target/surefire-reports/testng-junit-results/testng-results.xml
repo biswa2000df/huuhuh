@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-28T15:29:13 IST" name="Surefire suite" finished-at="2022-07-28T15:29:13 IST" duration-ms="98">
+    <groups>
+    </groups>
+    <test started-at="2022-07-28T15:29:13 IST" name="Surefire test" finished-at="2022-07-28T15:29:13 IST" duration-ms="98">
+      <class name="huuhuh.hee">
+        <test-method signature="m1()" started-at="2022-07-28T15:29:13 IST" name="m1" finished-at="2022-07-28T15:29:13 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m2()" started-at="2022-07-28T15:29:13 IST" name="m2" finished-at="2022-07-28T15:29:13 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- huuhuh.hee -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
